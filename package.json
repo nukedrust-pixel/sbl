@@ -1,0 +1,5 @@
+{
+  "name": "sbl-executable",
+  "version": "1.0.0",
+  "main": "output.sbl"
+}
